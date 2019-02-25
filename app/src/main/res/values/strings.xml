@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinApp</string>
+
+    <string name="auth0_domain">cozz.auth0.com</string>
 </resources>
